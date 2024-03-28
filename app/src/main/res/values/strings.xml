@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShoppingList</string>
+    <string name="contentDescription">Add a new element to your list</string>
+</resources>
